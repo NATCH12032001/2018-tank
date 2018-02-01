@@ -27,6 +27,14 @@ of the code by running robot.py directly.
 
     python3 robot.py sim
 
+##Joysticks References
+The following images were created as reference to the button numbers
+on the teams joysticks. The first is the Logitech Attack 3 with the second
+being the Logitech 3D pro. The images of these joysticks can be
+found in the res folder.
+![Logitech Attach 3](res/ATK3.png)
+![Logitech 3D Pro](res/X3D.png)
+
 ## Setting up `git` hooks:
 
 `git` hooks change the process of committing by adding processes before or after the process of committing. After cloning, you should run
