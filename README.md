@@ -27,7 +27,7 @@ of the code by running robot.py directly.
 
     python3 robot.py sim
 
-## Joysticks References
+## Joystick References
 The following images were created as reference to the button numbers
 on the teams joysticks. The first is the Logitech Attack 3 with the second
 being the Logitech 3D pro. The images of these joysticks can be
