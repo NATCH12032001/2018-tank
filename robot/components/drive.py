@@ -21,12 +21,10 @@ WHEEL_DIAMETER = 7.639
 
 class Drive:
     robot_drive = wpilib.RobotDrive
->>>>>>> fff3b74fb26ae0bb16cdf0614178ee082321e472
 
     def __init__(self):
         self.enabled = False
 
-<<<<<<< HEAD
     def move(self, y: float, rot: float):
         """
         Move robot.
@@ -67,4 +65,3 @@ class Drive:
         # Prevent robot from driving by default
         self.y = 0
         self.rotation = 0
->>>>>>> fff3b74fb26ae0bb16cdf0614178ee082321e472
