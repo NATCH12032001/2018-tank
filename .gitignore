@@ -24,7 +24,10 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+<<<<<<< HEAD
 .DS_Store
+=======
+>>>>>>> fff3b74fb26ae0bb16cdf0614178ee082321e472
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -101,8 +104,14 @@ ENV/
 # mypy
 .mypy_cache/
 
+<<<<<<< HEAD
 # RobotPy
 .deploy_cfg
 .installer_config
 
 *_cache
+=======
+# RobotPy configs
+.deploy_cfg
+.installer_config
+>>>>>>> fff3b74fb26ae0bb16cdf0614178ee082321e472
